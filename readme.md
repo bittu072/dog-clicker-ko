@@ -36,5 +36,5 @@ Knockout, jquery, boot-strap
 * In this application, seven Dogs are provided. You can click on any dog's name from left-side, and that will show dog's picture, name and number of clicks. Clicking on image of dog will increase the clickcount for that dog only.
 
 ### Instruction:
-* Clone this Repository and open index.html and in any browser
+* Clone this Repository and open index.html in any browser
 * Enjoy Dog Clicker application
